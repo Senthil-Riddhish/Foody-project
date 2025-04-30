@@ -1,4 +1,4 @@
-# zomato-proj-master-shapeai
+# Foody - Food Ordering App
 
 ## Installing and setting up docker on EC2
 
