@@ -1,4 +1,4 @@
-# Foody - Food Ordering App
+# Scalable Food Ordering & Fulfillment Platform (Full-Stack, Cloud-Ready)
 
 ## Installing and setting up docker on EC2
 
